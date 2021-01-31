@@ -4,25 +4,27 @@
     "description": "Teste os seus conhecimentos sobre futebol e vamos ver quantos quantos gols você consegue marcar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://i.makeagif.com/media/12-28-2015/4zZe23.gif",
+        "title": "Qual país ganhou a coma de 2006?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Brasil",
+          "Alemanha",
+          "França",
+          "Argentina"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://media4.giphy.com/media/WvuTFk2IN7jxoLVDkP/giphy.gif",
+        "title": "Qual foi o nome dado para a bola na copa de 2010 na África do Sul?",
         "description": "Faz tempo em haha",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Jabulosa",
+           "Jabulani",
+           "Jabosa",
+           "Jabutosa"
         ]
       }
     ],
